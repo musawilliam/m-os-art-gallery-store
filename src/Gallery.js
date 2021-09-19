@@ -6,6 +6,10 @@ import Img2 from './images/art2.jpeg';
 import Img3 from './images/art3.jpeg';
 import Img4 from './images/art4.jpeg';
 import Img5 from './images/art5.jpeg';
+import Img6 from './images/art6.jpeg';
+import Img7 from './images/art7.jpeg';
+import Img8 from './images/art8.jpeg';
+
 
 const Gallery = () => {
 
@@ -30,6 +34,18 @@ const Gallery = () => {
         {
             id: 5,
             imgSrc: Img5,
+        },
+        {
+            id: 6,
+            imgSrc: Img6,
+        },
+        {
+            id: 7,
+            imgSrc: Img7,
+        },
+        {
+            id: 8,
+            imgSrc: Img8,
         },
     ];
 
